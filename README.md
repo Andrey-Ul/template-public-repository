@@ -1,2 +1,2 @@
-# template-repository
-Template repository for all the my projects
+# template-public-repository
+Template repository for all the my public projects
